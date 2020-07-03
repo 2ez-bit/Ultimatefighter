@@ -1,0 +1,11 @@
+extern
+node_modules
+tmp
+vendor
+.idea/workspace.xml
+.idea/misc.xml
+/UltimateFighterBrowser\bin\x86\Debug/*
+/UltimateFighterBrowser\bin\Release\x64/*
+/UltimateFighterBrowser\bin\Release\x86/*
+/UltimateFighterBrowser\bin\Debug\x64/*
+/UltimateFighterBrowser\bin\x86\Release/*
